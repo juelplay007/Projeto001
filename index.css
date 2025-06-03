@@ -111,3 +111,8 @@ section {
     display: flex;
     flex-direction: column;
 }
+
+#Cadastrar1{
+   padding: 10px;
+   background-color: rgb(120, 120, 121);
+}
